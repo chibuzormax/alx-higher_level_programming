@@ -13,4 +13,6 @@
 - a ^ b
 - Fizz Buzz
 - Insert in sorted linked list
-- 
+- Smile in the mirror
+- Remove at position
+- ByteCode -> Python #2 
